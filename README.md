@@ -15,4 +15,8 @@
 **위와 같은 문제를 해결하기 위해 url만을 보고 정상 URL과 피싱 URL을 분류할 필요가 있음
 
 ### 모델링 개요
-<center><img src = "images/intro.jpg"></center>
+<center><img src = "images/intro.JPG"></center>
+
+### 예측결과결합
+ - '다수결'방법과 '가중치'방법이 2가지가 있다.
+<center><img src = "images/en.jpg"></center>
