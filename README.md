@@ -19,4 +19,4 @@
 
 ### 예측결과결합
  - '다수결'방법과 '가중치'방법이 2가지가 있다.
-<center><img src = "images/en.jpg"></center>
+<center><img src = "images/en.JPG"></center>
